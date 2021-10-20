@@ -1,6 +1,6 @@
 ### Hi, I'm Cameron Roe
 
-I am currently a Senior Full-Stack Engineer at @Audibene-GMBH helping people hear better through telemedicine solutions. I also tinker with various toy projects in my free time and love learning new programming languages. I also do a bit of blogging about various things I learn and want to share. Lately, I have been enjoying hacking on GitHub Actions and using it to do awesome things with other GitHub features.
+I am currently a Software Engineer II at @teamookla helping measure the Internet. I also tinker with various toy projects in my free time and love learning new programming languages. I also do a bit of blogging about various things I learn and want to share. Lately, I have been enjoying hacking on GitHub Actions and using it to do awesome things with other GitHub features.
 
 You can read my blog at https://cameronbroe.com
 
