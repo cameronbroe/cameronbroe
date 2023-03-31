@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Badges
+
+![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=cameronbroe&show_icons=true&theme=synthwave)
